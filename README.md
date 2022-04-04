@@ -1,2 +1,2 @@
-# balanced-brackets
-HackerRank
+## Balanced Brackets
+HackerRank solution
